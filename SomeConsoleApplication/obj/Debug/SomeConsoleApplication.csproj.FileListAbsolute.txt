@@ -1,0 +1,7 @@
+C:\Users\ruben.j.ZERONET\WorkSpaces\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.exe.config
+C:\Users\ruben.j.ZERONET\WorkSpaces\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.exe
+C:\Users\ruben.j.ZERONET\WorkSpaces\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.pdb
+C:\Users\ruben.j.ZERONET\WorkSpaces\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\ruben.j.ZERONET\WorkSpaces\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\ruben.j.ZERONET\WorkSpaces\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.exe
+C:\Users\ruben.j.ZERONET\WorkSpaces\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.pdb
